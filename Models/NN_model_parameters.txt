@@ -1,0 +1,4 @@
+Number of fully connected nodes, layer 1 = 20
+Number of fully connected nodes, layer 2 = 15
+Batch Size = 4
+Training Function = adam
